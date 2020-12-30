@@ -1,6 +1,6 @@
-title: 赵冲
-description: 赵冲的个人博客
-author: 赵冲
+title: Chong Zhao
+description: Chong Zhao's blog.
+author: Chong Zhao
 avatar: /logo.png
 email: 1819628216@qq.com
 
@@ -34,7 +34,7 @@ exclude:
 #   card: summary
 logo: logo.png
 social:
-  name: 赵冲
+  name: Chong Zhao
   links:
     - https://github.com/nobelheaven
 # google_site_verification:
