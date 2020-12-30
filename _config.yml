@@ -25,7 +25,7 @@ paginate: 10
 exclude:
   - scripts/
   - README.md
-  # - jekyll-theme-hamilton.gemspec
+  - jekyll-theme-hamilton.gemspec
 
 # Jekyll SEO Tag (Optional)
 # =========================
