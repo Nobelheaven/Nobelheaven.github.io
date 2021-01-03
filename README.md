@@ -1,3 +1,1 @@
-## License
-
-The theme is available as open source under the terms of the [MIT License](LICENSE.txt).
+这是我的个人博客：https://nobelheaven.github.io
